@@ -24,3 +24,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 `
 -->
+
+After about a couple of months of youtube tutorials and countless articles, I had finally worked up the courage to begin my first project. A simple  calculator, using tkinter. I found this to be rather simple using Codemy's Tkinter tutorial: 
+
+_ https://www.youtube.com/watch?v=YXPyB4XeYLA _ 
