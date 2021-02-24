@@ -27,4 +27,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 After about a couple of months of youtube tutorials and countless articles, I had finally worked up the courage to begin my first project. A simple  calculator, using tkinter. I found this to be rather simple using Codemy's Tkinter tutorial: 
 
-![Codemy's Tkinter tutorial](https://youtu.be/YXPyB4XeYLA)
+[![Codem's Tkinter tutorial](https://img.youtube.com/vi/<YXPyB4XeYLA>/0.jpg)](https://www.youtube.com/watch?v=YXPyB4XeYLA)
