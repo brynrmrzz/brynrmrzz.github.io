@@ -1,30 +1,13 @@
-<!-- ## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/brynrmrzz/brynrmrzz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
--->
 
-<!--- 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-markdown
-/Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and Code text
-[Link](url) and ![Image](src)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brynrmrzz/brynrmrzz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-`
--->
+
+# ** Getting up and running ** 
+After deciding on my tutorial, I realized that I wanted to work with Fedora as my OS because of their dedication to FOSS. I was sure this might pose some unique problems but I figure there's always room for learning more solutions. However, because of my daily necessities, I decided to host Fedora in a virtual machine using [Virtual Box](https://www.virtualbox.org/) the Installation was rather simple and straightforward.  I uploaded a video to [LBRY](https://lbry.com/), which is a great decentralized alternative for anyone self-publishing any kind of media. You can watch the video at two times speed as it is just a guide to getting Fedora up and running with my preferred IDE visual studio. I also go over getting Fedora up to date and installing visual code with python so we're ready to begin our tutorial with Tkinter. 
+
+
+
+# ** The first step and most difficult step: _the decision_ **
 
 After about a couple of months of youtube tutorials and countless articles, I had finally worked up the courage to begin my first project. A simple  calculator, using tkinter. I found this to be rather simple using Codemy's Tkinter tutorial: 
 
-[![Codem's Tkinter tutorial](https://img.youtube.com/vi/<YXPyB4XeYLA>/1.jpg)](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+[![Codem's Tkinter tutorial](https://cdn.codemy.com/wp-content/uploads/2015/01/codemy105a.png)](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+
