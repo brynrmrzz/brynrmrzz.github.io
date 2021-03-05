@@ -1,5 +1,5 @@
 # Context: 
-** I wanted to materiliaze my work publically for accountability and growth purposes. You can go straight to the repository and you can see any projects I'm working that I might not have posted yet.**
+**I wanted to materiliaze my work publically for accountability and growth purposes. You can go straight to the repository and you can see any projects I'm working that I might not have posted yet.**
 
 <br/>[github.com/brynrmrzz/brynrmrzz.github.io](https://github.com/brynrmrzz/brynrmrzz.github.io)
 
