@@ -2,11 +2,10 @@
 
 **I wanted to materiliaze my work publically for accountability and growth purposes. You can go straight to the repository and you can see any projects I'm working that I might not have posted yet. It's going to read from most recent to the oldest.**
 
-<br/>[github.com/brynrmrzz/brynrmrzz.github.io](https://github.com/brynrmrzz/brynrmrzz.github.io)
+<br/>
+[github.com/brynrmrzz/brynrmrzz.github.io](https://github.com/brynrmrzz/brynrmrzz.github.io)
+<br/>
 
-<br/>
-<br/>
-<br/>
 
 ## **The ugliest calculator ever** 
 Thank's to Codemy's tutorial as it was extremely helpful and intuitive and left little room for confusion or misunderstandings. My experience with Tkinter for GUI overall was quick and easy and I got to spend most of my time adding new functions to test my own knowledge of some basic fundamentals. This led me to some interesting bugs like the ones shown here:
