@@ -9,5 +9,5 @@ After deciding on my tutorial, I realized that I wanted to work with Fedora as m
 
 After about a couple of months of youtube tutorials and countless articles, I had finally worked up the courage to begin my first project. A simple  calculator, using tkinter. I found this to be rather simple using Codemy's Tkinter tutorial: 
 
-                             [![Codem's Tkinter tutorial](https://cdn.codemy.com/wp-content/uploads/2015/01/codemy105a.png)](https://www.youtube.com/watch?v=YXPyB4XeYLA)
+   [![Codem's Tkinter tutorial](https://cdn.codemy.com/wp-content/uploads/2015/01/codemy105a.png)](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 
