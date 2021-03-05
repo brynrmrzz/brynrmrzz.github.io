@@ -7,7 +7,7 @@ After deciding on which tutorial to proceed with, I decided that I wanted to wor
 
 
 
-# **The first step and most difficult step:   _the decision_**
+# **The first step and most difficult step:<br/>_the decision_**
 
 After about a couple of months of youtube tutorials and countless articles, I had finally worked up the courage to begin my first project. A simple  calculator, using tkinter. I found this to be rather simple using Codemy's Tkinter tutorial but of course not without setting up your workspace first: 
 
