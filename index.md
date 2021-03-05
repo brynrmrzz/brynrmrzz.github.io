@@ -3,7 +3,7 @@
 **I wanted to materiliaze my work publically for accountability and growth purposes. You can go straight to the repository and you can see any projects I'm working that I might not have posted yet. It's going to read from most recent to the oldest.**
 
 <br/>
-github.com/brynrmrzz/brynrmrzz.github.io](https://github.com/brynrmrzz/brynrmrzz.github.io)
+[github.com/brynrmrzz/brynrmrzz.github.io](https://github.com/brynrmrzz/brynrmrzz.github.io)
 <br/>
 
 
