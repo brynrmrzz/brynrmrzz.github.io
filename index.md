@@ -5,7 +5,7 @@ After deciding on my tutorial, I realized that I wanted to work with Fedora as m
 
 
 
-# **The first step and most difficult step: _the decision_**
+# **The first step and most difficult step:   _the decision_**
 
 After about a couple of months of youtube tutorials and countless articles, I had finally worked up the courage to begin my first project. A simple  calculator, using tkinter. I found this to be rather simple using Codemy's Tkinter tutorial: 
 
