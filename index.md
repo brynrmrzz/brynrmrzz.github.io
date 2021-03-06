@@ -1,24 +1,22 @@
 # Context: 
-**I wanted to materiliaze my work publically for accountability and growth purposes. You can go straight to the repository and you can see any projects I'm working that I might not have posted yet. It's going to read from most recent to the oldest.**
+**I wanted to materiliaze my work publically for accountability and growth purposes. You can go straight to the repository and any projects I'm working that I might not have posted yet. It's going to read from most recent to the oldest.**
 
-https://github.com/brynrmrzz/brynrmrzz.github.io
+[You can see them here!](https://github.com/brynrmrzz/)
 
 
 
 
 ## **The ugliest calculator ever** 
 
-Thank's to Codemy's tutorial as it was extremely helpful and intuitive and left little room for confusion or misunderstandings. My experience with Tkinter for GUI overall was quick and easy and I got to spend most of my time adding new functions to test my own knowledge of some basic fundamentals. This led me to some interesting bugs like the ones shown here:
+First, thank you to Codemy. Their tutorial that was both extremely helpful,intuitive and left little room for confusion. My experience with Tkinter for GUI overall was quick and easy and I got to spend most of my time adding new functions to test my own knowledge of some basic fundamentals. This led me to some interesting bugs for example.
 
 ![bug1](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/tkinter_calculator/bug-1.gif)
 
-or perhaps this one which was also equally frustrating:
+My first attempt at a solution was a step in the right direction but ultimately sent me back to the drawing board. 
 
-![string to floar error](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/tkinter_calculator/string-to-float-error.PNG)
+![attempt-1](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/tkinter_calculator/attempt-1.PNG)
 
-They both led me to some interesting attempts that probably only highlight my long journey ahead like this one:
-<br/>![attempt-1](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/tkinter_calculator/attempt-1.PNG)
-<br/> Yet, ultimately, this was only a step forward. After some thought, found that with some additional if else logic I could avoid the errors I was seeing. I'm sure there's more I can do to improve it but for  the purpose of which I needed Tkinter, I can move on for now. I'm confident I will come back for a deeper understanding, unless I find a more aesthically pleasing library. You can see the code **[here.](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/36a4854ec4a1c85fe33ba6e6fe2bbc4f0973c39e/python_scripts/simple_calc_w_tkinter.py)** 
+After some thought, found that with some additional if else logic I could avoid the errors I was seeing. I'm sure there's more I can do to improve it but for  the purpose of which I needed Tkinter, I can move on for now. I'm confident I will come back for a deeper understanding, unless I find a more aesthically pleasing library. You can see the code **[here.](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/36a4854ec4a1c85fe33ba6e6fe2bbc4f0973c39e/python_scripts/simple_calc_w_tkinter.py)** 
 
 
 
