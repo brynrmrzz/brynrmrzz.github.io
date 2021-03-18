@@ -3,7 +3,9 @@
 
 [You can see them here!](https://github.com/brynrmrzz/)
 
+## **Plotly practice** 
 
+The idea of visualizing data seemed like a fun project to tackle while working with python seemed like a skill that would be helpful. Even if not in a workplace setting, the idea of tackling on a problem like this would at least further my conceptual understanding of Python and developing as whole. 
 
 
 ## **The ugliest calculator ever** 
