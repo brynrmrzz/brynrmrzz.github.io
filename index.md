@@ -7,7 +7,7 @@
 
 Data visualization is some of the most compelling evidence. It has the power to sway minds towards a more honest and transparant understanding of a cause or a solution. I felt learning how to visualize data with python was very achievable and a necesarry skill to help put together some larger scale ideas I have in place.It was rather easy using [Plotly!](https://plotly.com/python/) You can see how I rendered and graphed the data [here.](https://github.com/brynrmrzz/brynrmrzz.github.io/tree/main/python_scripts/graphapp)
 
-![plotly-graph](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/main/source_imagery/plotly-graph.jpeg)
+![plotly-graph](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/main/source_imagery/plotly-graph.jpeg?raw=true)
 
 ## **The ugliest calculator ever** 
 
