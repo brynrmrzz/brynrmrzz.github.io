@@ -3,10 +3,11 @@
 
 [You can see them here!](https://github.com/brynrmrzz/)
 
-## **Plotly practice** 
+## **The first of my "whys"* 
 
-The idea of visualizing data seemed like a fun project to tackle while working with python seemed like a skill that would be helpful. Even if not in a workplace setting, the idea of tackling on a problem like this would at least further my conceptual understanding of Python and developing as whole. 
+Data visualization is some of the most compelling evidence. I felt that if I made a tool that could help me do this, it could potentially serve myself in helping bring attention to things I care about. If i could host it, I could potentially create an indespinsable service for our communities. My idea is far from being something I could develop on my own but I figured I would start working on some of the building blocks. Using data from BJS.gov, I was able to parse this data and graph it using plotly.
 
+![plotly-graph](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/plotly-graph.jpeg
 
 ## **The ugliest calculator ever** 
 
@@ -18,7 +19,7 @@ My first attempt at a solution was a step in the right direction but ultimately 
 
 ![attempt-1](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/tkinter_calculator/attempt-1.PNG)
 
-After some thought, found that with some additional if else logic I could avoid the errors I was seeing. I'm sure there's more I can do to improve it but for  the purpose of which I needed Tkinter, I can move on for now. I'm confident I will come back for a deeper understanding, unless I find a more aesthically pleasing library. You can see the code **[here.](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/36a4854ec4a1c85fe33ba6e6fe2bbc4f0973c39e/python_scripts/simple_calc_w_tkinter.py)** 
+After some thought, found that with some additional if else logic I could avoid the errors I was seeing. I'm sure there's more I can do to improve it but for  the purpose of which I needed Tkinter, I can move on for now. I'm confident I will come back for a deeper understanding, unless I find a more aesthically pleasing library. You can see the code **[here.](https://github.com/brynrmrzz/brynrmrzz.github.io/python_scripts/simple_calc/simple_calc_w_tkinter.py)** 
 
 
 
