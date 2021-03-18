@@ -3,11 +3,11 @@
 
 [You can see them here!](https://github.com/brynrmrzz/)
 
-## **The first of my "whys"* 
+## **Plotly practice** 
 
-Data visualization is some of the most compelling evidence. I felt that if I made a tool that could help me do this, it could potentially serve myself in helping bring attention to things I care about. If i could host it, I could potentially create an indespinsable service for our communities. My idea is far from being something I could develop on my own but I figured I would start working on some of the building blocks. Using data from BJS.gov, I was able to parse this data and graph it using plotly.
+Data visualization is some of the most compelling evidence. It has the power to sway minds towards a more honest and transparant understanding of a cause or a solution. I felt learning how to visualize data with python was very achievable and a necesarry skill to help put together some larger scale ideas I have in place.It was rather easy using [Plotly!](https://plotly.com/python/) You can see how I rendered and graphed the data [here.](https://github.com/brynrmrzz/brynrmrzz.github.io/tree/main/python_scripts/graphapp)
 
-![plotly-graph](https://raw.githubusercontent.com/brynrmrzz/brynrmrzz.github.io/main/source_imagery/plotly-graph.jpeg
+![plotly-graph](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/main/source_imagery/plotly-graph.jpeg)
 
 ## **The ugliest calculator ever** 
 
