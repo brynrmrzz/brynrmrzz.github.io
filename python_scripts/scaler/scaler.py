@@ -28,10 +28,6 @@ def sort_by_rgb(folder):
     return sorted_list_keys
 
 
-
-
-
-
 def copy_sorted_to_our_folder(source_folder, new_folder):
 
     ordered_images = sort_by_rgb(f'{source_folder}')
@@ -45,9 +41,5 @@ def copy_sorted_to_our_folder(source_folder, new_folder):
             src =  f"{source_folder}/{image_to_order}"
             dst = f"{source_folder}/{new_folder}/{count}_copy.jpg" 
             copyfile(src, dst)
-            print(src)
-            print(dst)
         else:
             continue
-
-copy_sorted_dict('images','sorted_images')

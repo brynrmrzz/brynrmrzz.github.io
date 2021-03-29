@@ -3,6 +3,12 @@
 
 [You can see them here!](https://github.com/brynrmrzz/)
 
+## **An image organizer?** 
+Working, on some websites I realized I was lacking a tool that I felt many could take advantage of. I really wanted to make a program to organize my images by color dominance. I felt this would be such a useful tool for photographers and designers. I've seen this done before in some ways but not how I feel would maximize it's potential. I made a very primitive attempt and ran into some hiccups but overall, I feel I'm on the right track! I had some help with this using a script I found on github written by [Zollinger](https://gist.github.com/zollinger/1722663) you can see how I used it functionally on my [page.](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/main/python_scripts/scaler/scaler.py)
+
+
+
+
 ## **Plotly practice** 
 
 Data visualization is some of the most compelling evidence. It has the power to sway minds towards a more honest and transparant understanding of a cause or a solution. I felt learning how to visualize data with python was very achievable and a necesarry skill to help put together some larger scale ideas I have in place.It was rather easy using [Plotly!](https://plotly.com/python/) You can see how I rendered and graphed the data [here.](https://github.com/brynrmrzz/brynrmrzz.github.io/tree/main/python_scripts/graphapp)
