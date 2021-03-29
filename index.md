@@ -5,6 +5,7 @@
 
 ## **An image organizer?** 
 Working, on some websites I realized I was lacking a tool that I felt many could take advantage of. I really wanted to make a program to organize my images by color dominance. I felt this would be such a useful tool for photographers and designers. I've seen this done before in some ways but not how I feel would maximize it's potential. I made a very primitive attempt and ran into some hiccups but overall, I feel I'm on the right track! I had some help with this using a script I found on github written by [Zollinger](https://gist.github.com/zollinger/1722663) you can see how I used it functionally on my [page.](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/main/python_scripts/scaler/scaler.py)
+![Screenshot](https://github.com/brynrmrzz/brynrmrzz.github.io/blob/main/scaler.PNG?raw=true)
 
 
 
