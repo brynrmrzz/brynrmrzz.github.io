@@ -11498,6 +11498,9 @@ html {
   height: 6rem;
 }
 
+.tech-badge {
+  max-height: 5rem;
+}
 
 .footer {
   padding-top: 5rem;
