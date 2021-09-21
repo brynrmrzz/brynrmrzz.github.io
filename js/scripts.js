@@ -10,9 +10,9 @@
 window.addEventListener('DOMContentLoaded', event => {
 
     //Captcha script
-       function onSubmit(token) {
-     document.getElementById("demo-form").submit();
-   }
+    function onSubmit(token) {
+        document.getElementById("contactForm").submit();
+    };
 
     // Navbar shrink function
     var navbarShrink = function () {
