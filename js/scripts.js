@@ -5,9 +5,14 @@
 */
 //
 // Scripts
-// 
+//
 
 window.addEventListener('DOMContentLoaded', event => {
+
+    //Captcha script
+       function onSubmit(token) {
+     document.getElementById("demo-form").submit();
+   }
 
     // Navbar shrink function
     var navbarShrink = function () {
@@ -20,10 +25,9 @@ window.addEventListener('DOMContentLoaded', event => {
         } else {
             navbarCollapsible.classList.add('navbar-shrink')
         }
-
     };
 
-    // Shrink the navbar 
+    // Shrink the navbar
     navbarShrink();
 
     // Shrink the navbar when page is scrolled

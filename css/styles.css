@@ -7801,15 +7801,11 @@ textarea.form-control-lg {
 }
 
 .bg-para {
-  background-image: url("nyc.jpg");
-  /* Set a specific height */
-  /* Create the parallax scrolling effect */
+  background-image: url("/assets/img/nyc-large.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-</style>
 }
 
 .bg-secondary {
