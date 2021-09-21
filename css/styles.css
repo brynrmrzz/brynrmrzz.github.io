@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@200&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&display=swap');
 /*!
 * Start Bootstrap - Freelancer v7.0.4 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2021 Start Bootstrap
@@ -43,7 +43,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-primary-rgb: 110, 128, 135;
-  --bs-secondary-rgb: 33, 50, 32;
+  --bs-secondary-rgb: 0, 0, 0;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -78,7 +78,7 @@
 
 body {
   margin: 0;
-  font-family: var(--bs-body-font-family);
+  font-family: 'Montserrat', sans-serif;
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
@@ -104,8 +104,8 @@ hr:not([size]) {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-weight: 700;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 600;
   line-height: 1.2;
 }
 
@@ -7709,6 +7709,7 @@ textarea.form-control-lg {
 }
 
 .text-secondary {
+  font-family: 'Abril Fatface', cursive !important;
   --bs-text-opacity: 1;
   color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
 }
@@ -7799,8 +7800,25 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-para {
+  background-image: url("nyc.jpg");
+  /* Set a specific height */
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+}
+
 .bg-secondary {
   --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.bg-navbar {
+  --bs-bg-opacity: .5;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
 }
 
@@ -11427,16 +11445,13 @@ html {
   padding-bottom: 5rem;
 }
 .masthead .masthead-heading {
-  font-family: 'Biryani', sans-serif;
   font-size: 2.75rem;
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
   font-size: 1.25rem;
 }
-.masthead .masthead-avatar {
-  width: 15rem;
-}
+
 
 @media (min-width: 992px) {
   .masthead {
@@ -11499,7 +11514,8 @@ html {
 }
 
 .tech-badge {
-  max-height: 5rem;
+  max-height: 6rem;
+  padding: .2rem;
 }
 
 .footer {
@@ -11510,5 +11526,13 @@ html {
 }
 
 .copyright {
-  background-color: #272B27;
+  background-color: #000000;
+}
+
+.glass {
+  background: rgba( 255, 255, 255, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 3.5px );
+  -webkit-backdrop-filter: blur( 3.5px );
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
