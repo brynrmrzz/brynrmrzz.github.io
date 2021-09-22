@@ -8,11 +8,12 @@
 //
 
 window.addEventListener('DOMContentLoaded', event => {
-
     //Captcha script
     function onSubmit(token) {
         document.getElementById("contactForm").submit();
+        window.location.replace("http://www.w3schools.com")
     };
+
 
     // Navbar shrink function
     var navbarShrink = function () {
